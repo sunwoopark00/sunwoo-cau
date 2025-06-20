@@ -10,3 +10,7 @@ This is the main training pipeline. It converts the time-series data into GPT (G
 
 carbon619_regression.csv
 This file is the output of signalcollectregression.py. It contains multiple labeled impact samples, each with PVDF sensor responses and corresponding (x, y) coordinates. It is used as the input dataset for the CNN regression model.
+
+Wang, M., Yan, Y., Zhang, W., Zhang, Y., Wu, D., Wang, Y., Qing, X., & Wang, Y. (2025).
+An impact localization method for composite structures based on time series features and machine learning.
+Composite Structures.
