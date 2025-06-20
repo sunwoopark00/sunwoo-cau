@@ -8,7 +8,7 @@ This script extracts meaningful impact segments from the raw sensor data obtaine
 gptcnnregression.py
 This is the main training pipeline. It converts the time-series data into GPT (Grid Pattern Transformation) images, then feeds them into a CNN regression model. The model learns to predict the impact coordinates (x, y) directly. Training performance is evaluated using MAE and MSE metrics.
 
-carbon619_regression.csv
+carbon619_regression2.csv
 This file is the output of signalcollectregression.py. It contains multiple labeled impact samples, each with PVDF sensor responses and corresponding (x, y) coordinates. It is used as the input dataset for the CNN regression model.
 
 
