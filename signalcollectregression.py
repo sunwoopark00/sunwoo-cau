@@ -17,7 +17,7 @@ back_file = "C:/Users/psw09/Desktop/pvdf test/pvdf_data_back_carbon 20250619_161
 label_coords = {
     "center": (0.0, 0.0),
     "front":  (0.0, -55.0),
-    "back":   (0.0, -55.0)
+    "back":   (0.0, +55.0)
 }
 
 # 수정된 함수: x, y 좌표 추가
